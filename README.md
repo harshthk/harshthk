@@ -1,4 +1,4 @@
-<img src="https://www.pngitem.com/pimgs/m/376-3767120_programming-languages-background-hd-png-download.png" alt="harshthk">
+
 <h1 align="center">Hi 👋, I'm Harsh Thakor</h1>
 <h3 align="center">Self taught programmer but still learning programming languages from internet.</h3>
  <div style="display: grid;
