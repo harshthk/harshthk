@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harsh Thakor</h1>
 <h3 align="center">Self taught programmer but still learning programming languages from internet.</h3>
+ <div style="display: grid;
+    grid-template-columns: auto auto auto auto;">
+        <div class="col-lg-6">
+            <p>- 🌱 I’m currently learning **Web Development**</p>
+            <p>- 💬 Ask me about **Python, Java, IoT, Arduino**</p>
+        </div>
+        <div class="col-lg-6">
+            <p align =right><img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="harshthk" / width="400" height="400"></p>
+        </div>
+    </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshthk&label=Profile%20views&color=0e75b6&style=flat" alt="harshthk" /> </p>
 
