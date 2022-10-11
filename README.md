@@ -1,3 +1,4 @@
+<img src="https://st.depositphotos.com/1756445/4385/i/950/depositphotos_43853639-stock-photo-word-cloud-programming-languages-or.jpg" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Harsh Thakor</h1>
 <h3 align="center">Self taught programmer but still learning programming languages from internet.</h3>
